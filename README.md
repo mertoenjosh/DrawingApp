@@ -2,7 +2,7 @@
 
 ## Extension
 
-- Have a "==redo==" button
+- Have a 'redo' button
 - Create a random color pellet
 - Add a color picker
 - Select size of brush using a slider
